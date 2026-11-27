@@ -1,0 +1,13 @@
+# Ergebnis von "jupyter lite build"
+dist/
+_output/
+.jupyterlite.doit.db
+
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+
+# Jupyter
+.ipynb_checkpoints/

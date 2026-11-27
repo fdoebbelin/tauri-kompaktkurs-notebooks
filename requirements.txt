@@ -1,0 +1,7 @@
+# JupyterLite-Kern
+jupyterlite-core==0.6.4
+jupyterlab~=4.4.5
+notebook~=7.4.5
+
+# JavaScript-Kernel: alle Begleit-Notebooks laufen darin
+jupyterlite-javascript-kernel==0.3.0
